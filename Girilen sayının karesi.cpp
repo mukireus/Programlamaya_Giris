@@ -6,9 +6,5 @@ int main(){
 	cin >> sayi;
 	karesi = sayi * sayi;
 	cout << "Girilen sayinin karesi: " << karesi;
-
-
-
 	return 0;
 }
-
