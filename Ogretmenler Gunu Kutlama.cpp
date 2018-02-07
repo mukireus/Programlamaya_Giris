@@ -1,10 +1,8 @@
 ///////////////////////////////////////////
-// MUHAMMET ÖMER TARAFINDAN YAZILMIÞTIR ///
+// MUHAMMET Ã–MER TARAFINDAN YAZILMIÃžTIR ///
 ///////////////////////////////////////////
 
 #include<iostream>
-#include<conio.h>
-#include<math.h>
 using namespace std;
 
 int main(){
@@ -20,16 +18,14 @@ int main(){
 	cout << "				i i i i" << endl;
 	cout << "			     __i_i_i_i_i__" << endl;
 	cout << "			    |" << "<3" << "         " << "<3" << "|" <<endl;
-	cout << "	            	  __|" << "  ÖÐRETMENLER"  << "|__" <<endl;
+	cout << "	            	  __|" << "  Ã–ÃRETMENLER"  << "|__" <<endl;
 	cout << "			 |" << "<3" << "   " << "<3"<< "   " << "<3" << "   " << "<3" << "  |" <<endl;
-	cout << "		       __|" << "<3 <3 GÜNÜNÜZ" << " " << "<3 <3" << "|__"<<endl;
+	cout << "		       __|" << "<3 <3 GÃœNÃœNÃœZ" << " " << "<3 <3" << "|__"<<endl;
 	cout << "		      |<3 " << "<3" << "   " << "<3"<< "   " << "<3" << "   " << "<3" << "   <3|" <<endl;
 	cout << "		      |" << "<3 <3 <3 KUTLU" << " " << "  <3 <3 <3" << "|"<<endl;
 	cout << "		      |<3 " << "<3" << "   " << "<3"<< "   " << "<3" << "   " << "<3" << "   <3|" <<endl;
 	cout << "		      |" << "<3 <3 <3   OLSUN" << " <3 <3 <3" << "|"<<endl;
 	cout << "		      |_________________________|"<<endl;
 	cout <<endl << endl << endl<< endl<< endl<< endl<< endl;
-
 	return 0;
 }
-
